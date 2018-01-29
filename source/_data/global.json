@@ -1,0 +1,9 @@
+{
+    "name":"MARIO!!!",
+    "age": "23",
+    "emergency": false,
+    "locations": [
+        {"name": "orlando"},
+        {"name": "tampa"}
+    ]
+}

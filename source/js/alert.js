@@ -1,0 +1,1 @@
+console.log("non self-invoking function fired!");

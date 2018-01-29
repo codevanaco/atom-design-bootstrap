@@ -1,0 +1,15 @@
+{{> atoms/buttons/button(message: "hello amigo")}}
+
+ {{# emergency }}
+        <div class="alert">Emergency is true on global data!!!</div>
+    {{/ emergency }}
+
+{{> atoms/buttons/button:greetings(message: "yo")}}
+
+{{secret}}
+
+<ul>
+{{# locations}}
+    <li>{{name}}</li>
+{{/ locations}}
+</ul>
